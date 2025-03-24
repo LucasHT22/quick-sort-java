@@ -1,1 +1,1 @@
-# quick-sort-java
+# Quick Sort - Java
